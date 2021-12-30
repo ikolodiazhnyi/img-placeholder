@@ -1,0 +1,10 @@
+.wrapper-settings {
+  display: flex;
+  flex-direction: column;
+  align-items: space-between;
+}
+.wrapper-settings input {
+  width: 200px;
+  font-size: 1rem;
+  height: 20px
+}
